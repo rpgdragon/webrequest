@@ -1,5 +1,11 @@
 package jmcastellano.eu.utilidades.modelo;
 
+/**
+ * 
+ * @author José Manuel Castellano Domínguez
+ *
+ */
+
 public enum Metodo {
 	DELETE("DELETE"),PUT("PUT"),POST("POST"),PATCH("PATCH");
 	

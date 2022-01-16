@@ -1,5 +1,12 @@
 package jmcastellano.eu.utilidades.webrequest;
 
+/**
+ * 
+ * @author José Manuel Castellano Domínguez
+ *
+ */
+
+
 import java.net.URL;
 import java.util.Scanner;
 

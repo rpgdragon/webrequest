@@ -1,5 +1,11 @@
 package jmcastellano.eu.utilidades.webrequest;
 
+/**
+ * 
+ * @author José Manuel Castellano Domínguez
+ *
+ */
+
 import java.io.BufferedWriter;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
