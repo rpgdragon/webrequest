@@ -13,7 +13,8 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.net.URL;
 import java.net.URLConnection;
-import jmcastellano.eu.utilidades.excepciones.WebRequestException;
+
+import jmcastellano.eu.utilidades.webrequest.excepciones.WebRequestException;
 
 public final class PeticionDescarga extends PeticionGET {
 	

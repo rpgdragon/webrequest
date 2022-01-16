@@ -13,9 +13,9 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.Scanner;
 
-import jmcastellano.eu.utilidades.excepciones.WebRequestException;
-import jmcastellano.eu.utilidades.modelo.Constantes;
-import jmcastellano.eu.utilidades.modelo.Metodo;
+import jmcastellano.eu.utilidades.webrequest.excepciones.WebRequestException;
+import jmcastellano.eu.utilidades.webrequest.modelo.Constantes;
+import jmcastellano.eu.utilidades.webrequest.modelo.Metodo;
 
 public class PeticionNotGET extends PeticionHTTP {
 	

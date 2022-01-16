@@ -10,8 +10,8 @@ package jmcastellano.eu.utilidades.webrequest;
 import java.net.URL;
 import java.util.Scanner;
 
-import jmcastellano.eu.utilidades.excepciones.WebRequestException;
-import jmcastellano.eu.utilidades.modelo.Constantes;
+import jmcastellano.eu.utilidades.webrequest.excepciones.WebRequestException;
+import jmcastellano.eu.utilidades.webrequest.modelo.Constantes;
 
 public class PeticionGET extends PeticionHTTP {
 

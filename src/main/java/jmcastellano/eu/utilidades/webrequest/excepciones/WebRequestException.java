@@ -1,4 +1,4 @@
-package jmcastellano.eu.utilidades.excepciones;
+package jmcastellano.eu.utilidades.webrequest.excepciones;
 
 /**
  * 

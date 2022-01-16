@@ -1,4 +1,4 @@
-package jmcastellano.eu.utilidades.modelo;
+package jmcastellano.eu.utilidades.webrequest.modelo;
 
 /**
  * 

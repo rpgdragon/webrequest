@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-import jmcastellano.eu.utilidades.excepciones.WebRequestException;
+import jmcastellano.eu.utilidades.webrequest.excepciones.WebRequestException;
 
 abstract class PeticionHTTP {
     
