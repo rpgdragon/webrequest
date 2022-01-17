@@ -234,6 +234,9 @@ abstract class PeticionHTTP {
 	 * @throws UnsupportedEncodingException 
 	 */
 	String tramitarParametros() throws UnsupportedEncodingException{
+		if(this.getParametros()==null || this.getParametros().isEmpty()) {
+			return null;
+		}
 		//los parametros en un GET se definen via la URL
 		StringBuilder strb = new StringBuilder();
 	    boolean primero = true;

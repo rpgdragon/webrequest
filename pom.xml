@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>jmcastellano.eu.utilidades</groupId>
   <artifactId>webrequest</artifactId>
-  <version>1.0</version>
+  <version>1.0.1</version>
   <name>Web Requests</name>
   <description>Proyecto que realiza las peticiones Web</description>
 </project>
